@@ -37,7 +37,7 @@ Applied **advanced deep learning techniques** to determine whether cells are can
 
 ---
 
-### 🔹 [TheGoatedProfessor](https://thegoatedprofessor.vercel.app) – **Creator**
+### 🔹 [TheGoatedProfessor](https://the-goated-professor2.vercel.app) – **Creator**
 Built an **AI-powered self-study platform** to improve study efficiency with:  
 ✔ **Page-specific AI explanations**  
 ✔ **Real-time editing & interactive learning**  
